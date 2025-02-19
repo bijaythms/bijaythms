@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently studying BCA
 - 💞️ I’m looking to collaborate on AI based Data Analysis
-- 📫 Catch me through Email bijaythms@gmail.com
+- 📫 Catch me through bijaythms@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Every day, about 317 million new viruses are discovered...!!
 
