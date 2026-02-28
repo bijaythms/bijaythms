@@ -2,18 +2,21 @@
 <h3 align="center">Aspiring Data Analyst | BCA Student | AI & Data Science Enthusiast</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Z1a2k0anMyYTAwNmxkemw4dHJqNnFkeW4ya29qa2swMnRjbGNyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10DT9obievd8NW/giphy.gif" width="300"/>
 </div>
 
 ---
+<div style="font-family: 'Rajdhani', sans-serif; font-size:20px; line-height:2;">
 
-- 🔍 Currently diving deep into **Data Analytics** 
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
-- 🤝 Open to collaborate on **GenAI/Data Analytics Projects**
-- 📫 Reach me at: **bijaythms@gmail.com**
-- 💬 Ask me about: `Python`, `Pandas`, `Machine Learning`, `Data Visualization`
-- 🧠 Always learning something new (Currently: Power BI and Deep Learning)
+🔍 Currently diving deep into <b>Data Analytics</b><br>
+🎓 Pursuing <b>Bachelor of Computer Applications (BCA)</b><br>
+🤝 Open to collaborate on <b>GenAI/Data Analytics/devops Projects</b><br>
+📫 Reach me at: <b>bijaythms@gmail.com</b><br>
+💬 Ask me about: <code>Python</code>, <code>Pandas</code>, <code>Machine Learning</code>, <code>Data Visualization</code><br>
+🧠 Always learning something new (Currently: <b>Power BI and Deep Learning</b>)
 
+
+</div>
 ---
 
 ### 🛠️ Tech Stack
