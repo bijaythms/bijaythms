@@ -62,9 +62,7 @@
 
 ---
 
-### 🎉 Just for Fun
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanczbm81cmphM25oa2UwNGNxb3h5a3Vzd2h4dTZuaWt0YjE4cnRqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7RjDmX5WtXbXnuYhGW/giphy.gif"/>
-</div>
+
+
 
