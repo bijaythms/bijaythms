@@ -9,7 +9,7 @@
 <div style="font-family: 'Rajdhani', sans-serif; font-size:20px; line-height:2;">
 
 🔍 Currently diving deep into <b>Data Analytics</b><br>
-🎓 Pursuing <b>Bachelor of Computer Applications (BCA)</b><br>
+🎓 Graduated <b>Bachelor of Computer Applications (BCA)</b><br>
 🤝 Open to collaborate on <b>GenAI/Data Analytics/devops Projects</b><br>
 📫 Reach me at: <b>bijaythms@gmail.com</b><br>
 💬 Ask me about: <code>Python</code>, <code>Pandas</code>, <code>Machine Learning</code>, <code>Data Visualization</code><br>
