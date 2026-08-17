@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bijay Thomas</h1>
-<h3 align="center">Data Analyst | BCA Graduate | AI & Data Science,DevOps Enthusiast</h3>
+<h3 align="center">Data Analyst | MSC Data Analytics with Geoinformatics | AI & DevOps Enthusiast</h3>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Z1a2k0anMyYTAwNmxkemw4dHJqNnFkeW4ya29qa2swMnRjbGNyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10DT9obievd8NW/giphy.gif" width="300"/>
